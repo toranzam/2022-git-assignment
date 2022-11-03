@@ -6,3 +6,10 @@ body
     min-height: 100vh;
     background: #1dd1a1;
 }
+.Login
+{
+    position: relative;
+    padding: 50px;
+    background: #fff;
+    width: 400px;
+    display: flex;
