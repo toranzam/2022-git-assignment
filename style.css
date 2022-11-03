@@ -42,3 +42,15 @@ body
     font-size: 1em;
     color: #333;
 }
+.Login .inputBox input#btn
+{
+    border: none;
+    background: #1dd1a1;
+    color: #fff;
+    transition: 0.5s;
+    font-size: 1.1em;
+    font-weight: 500;
+    width: 100%;
+    cursor: pointer;
+
+}
