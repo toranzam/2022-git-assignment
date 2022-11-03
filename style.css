@@ -59,3 +59,8 @@ body
     display: flex;
     justify-content: space-between;
 }
+.Login .group a
+{
+    color: #333;
+    text-decoration: none;
+}
