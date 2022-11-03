@@ -22,3 +22,8 @@ body
     font-weight: 500;
     border-left: 15px solid #1dd1a1;
     line-height: 1em;
+    padding-left: 10px;
+    transition: 0.5s;
+    color: #333;
+
+}
